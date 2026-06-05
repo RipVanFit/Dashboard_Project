@@ -1,6 +1,5 @@
-,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
-Breakfast,A,F,K,P,U,Z,5
-Snack,B,G,L,Q,V,1,6
-Lunch,C,H,M,R,W,2,7
-Snack,D,I,N,S,X,3,8
-Dinner,E,J,O,T,Y,4,9
+Week, Day, Breakfast, Lunch, Dinner
+23, Monday, Oats & Berries, Chicken Salad, Spaghetti Bolognese
+23, Tuesday, Green Smoothie, Leftover Spaghetti, Beef Tacos
+23, Wednesday, Eggs & Toast, Lentil Soup, Grilled Salmon
+24, Monday, Pancakes, Tuna Sandwich, Homemade Pizza
